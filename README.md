@@ -1,5 +1,15 @@
-# Calyx Consulting
+<h1 align="center">
+  Calyx Consulting
+</h1>
 
-![Website](website_gif.mp4)
+<p align="center">
+  <img src="website_gif.gif">
+</p>
 
-A sample website template I created for a mock consulting company. This started as a simple college org website, and balooned into a passion project to experiment with different web design ideas and strategies.
+<p align="center">
+  A sample website template I created for a mock consulting company. 
+</p>
+<p align="center">
+  What started as a simple college org website, balooned into a passion project to experiment with different web design ideas.
+</p>
+
